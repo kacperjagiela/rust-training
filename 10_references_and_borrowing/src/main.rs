@@ -40,10 +40,10 @@ fn calculate_length(s: &String) -> usize {
     s.len()
 }
 
-fn dangle() -> &String {
+fn dangle() -> String {
     let s = String::from("hello");
 
-    &s
+    s
 }
 
 fn change(some_string: &mut String) {

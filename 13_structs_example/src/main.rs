@@ -26,6 +26,16 @@ fn main() {
     println!("rect2 is {:#?}", rect2);
 
     dbg!(&rect2);
+
+    let scale = 2;
+
+    let rect3: Rectangle = Rectangle {
+        width: dbg!(30 * scale),
+        height: 50,
+    };
+
+    dbg!(&rect3);
+
 }
 
 fn calculate_area(width: u32, height: u32) -> u32 {
