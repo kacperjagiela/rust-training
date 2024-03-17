@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "remove_duplicate_code"
+name = "generic_data_types"
 version = "0.1.0"
