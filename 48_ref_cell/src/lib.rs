@@ -15,7 +15,7 @@ where
     pub fn new(messenger: &'a T, max: usize) -> LimitTracker<'a, T> {
         LimitTracker {
             messenger,
-            value: 0,
+            value: 2,
             max,
         }
     }
