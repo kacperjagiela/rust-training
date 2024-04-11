@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-name = "concurrency"
-version = "0.1.0"
-
-[[package]]
 name = "using_channels"
 version = "0.1.0"

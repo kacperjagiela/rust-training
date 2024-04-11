@@ -1,6 +1,5 @@
-workspace = { members = ["51_using_channels"] }
 [package]
-name = "concurrency"
+name = "using_channels"
 version = "0.1.0"
 edition = "2021"
 
