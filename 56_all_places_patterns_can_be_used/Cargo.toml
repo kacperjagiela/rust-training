@@ -1,6 +1,5 @@
-workspace = { members = ["56_all_places_patterns_can_be_used"] }
 [package]
-name = "implementing_oop_pattern"
+name = "all_places_patterns_can_be_used"
 version = "0.1.0"
 edition = "2021"
 
